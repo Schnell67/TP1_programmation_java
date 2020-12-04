@@ -58,4 +58,15 @@ public class Point {
 
 	    return resultat;
 	}
+	
+	public double getX() {
+		double res = 0;
+		res = this.x;
+		return res;
+	}
+	public double getY() {
+		double res = 0;
+		res = this.y;
+		return res;
+	}
 }
